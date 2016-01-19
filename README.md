@@ -8,6 +8,7 @@ A [Discord](https://discordapp.com/) Bot using [Discord.py](https://github.com/R
 **Thing to work on**
 * Update to OAuth API when Discord make an official API
 * Going to add an edit function to the `$emote` command
+* Adding databases to seperate channels
 
 
 **Requirements**
@@ -16,3 +17,7 @@ A [Discord](https://discordapp.com/) Bot using [Discord.py](https://github.com/R
 * *json* - comes with Python 2.7
 * *urllib2* - comes with Python 2.7
 * *random* - comes with Python 2.7
+
+**Commands**
+* `$roll <dice>d<times>` rolls some dice
+* `$emote [-list] [-add <name>, -link "<link to image/gif>"]` adds a trigger to the url/text
