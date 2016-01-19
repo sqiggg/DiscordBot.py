@@ -91,6 +91,11 @@ def commands(message):
         for x in range(1, len(rules.keys())+1):
             rulestxt = rulestxt + str(rules[str(x)]) + '\n'
         send(rulestxt,message.channel)
+        
+    if str(message.content).startswith('$help'):
+    #Printing them
+    messageTxt = "Commands are: \n $emote -help \n $roll <sides>d<number>"
+    send(messageTxt,message.channel)
 
 #END OF FUNCTIONS
 @client.event
