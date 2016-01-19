@@ -1,0 +1,67 @@
+{
+    "Rules": {
+        "1": "Rule 1: No Opeth",
+        "3": "Rule 3: No sloth memes",
+        "2": "Rule 2: Admin power abuse is allowed",
+        "5": "Rule 5: Keep spam to a minimum",
+        "4": "Rule 4: ITS GIF NOT JIF"
+    },
+    "Emotes": {
+        "EleGiggle": {
+            "trigger": "elegiggle",
+            "response": "http://goo.gl/SprV8o"
+        },
+        "kappa": {
+            "trigger": "kappa",
+            "response": "http://goo.gl/ZEX6KN"
+        },
+        "InTheCity": {
+            "trigger": "inthecity",
+            "response": "https://youtu.be/G5hGU3hABgs"
+        },
+        "exactlyLethal": {
+            "trigger": "exactlylethal",
+            "response": "https://www.youtube.com/watch?v=dXqtNXYCTIc"
+        },
+        "CalmDownBro": {
+            "trigger": "calmdownbro",
+            "response": "https://lh4.googleusercontent.com/-ksl_LSVKq1s/T1GO7FHGWRI/AAAAAAAAWoY/o0ZBV9ilKXk/w800-h800/Calm-Down-Bro.jpg"
+        },
+        "Yee": {
+            "trigger": "yee",
+            "response": "http://goo.gl/Zjgd1f"
+        },
+        "emotesSong": {
+            "trigger": "emotessong",
+            "response": "https://youtu.be/BarSI7xsA9A"
+        },
+        "bibleThump": {
+            "trigger": "biblethump",
+            "response": "https://goo.gl/g2fCMg"
+        },
+        "LeeroyJenkins": {
+            "trigger": "leeroyjenkins",
+            "response": "https://www.youtube.com/watch?v=hooKVstzbz0"
+        },
+        "kappaClaus": {
+            "trigger": "kappaclaus",
+            "response": "http://goo.gl/cKTqmR"
+        },
+        "yeeVideo": {
+            "trigger": "yeevideo",
+            "response": "https://youtu.be/q6EoRBvdVPQ"
+        },
+        "QuokkaVGrumpycat": {
+            "trigger": "quokkavgrumpycat",
+            "response": "https://s-media-cache-ak0.pinimg.com/736x/b6/07/1f/b6071f0f3d1e6e32230b7cb5e005fa22.jpg"
+        },
+        "OnePunchMan": {
+            "trigger": "onepunchman",
+            "response": "http://i.imgur.com/WDKWRRL.jpg"
+        },
+        "4head": {
+            "trigger": "4head",
+            "response": "http://goo.gl/Hh9cZs"
+        }
+    }
+}
