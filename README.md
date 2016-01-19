@@ -12,6 +12,7 @@ A [Discord](https://discordapp.com/) Bot using [Discord.py](https://github.com/R
 
 **Requirements**
 * *Python 2.7*
+* *Discord.py* - cam be got with `pip install discord.py`
 * *json* - comes with Python 2.7
 * *urllib2* - comes with Python 2.7
 * *random* - comes with Python 2.7
