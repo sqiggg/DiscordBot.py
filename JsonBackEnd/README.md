@@ -4,5 +4,6 @@ A Json backend. Gets requests from `http://localhost:8080/json` and sends back j
 If there is an overwrite command then the backend replaces the database with the Json that was sent.
 
 **Startup**
+
 1. run `node index.js`
 2. startup another window and start discordbot
