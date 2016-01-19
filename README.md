@@ -7,7 +7,7 @@ A [Discord](https://discordapp.com/) Bot using [Discord.py](https://github.com/R
 
 **Thing to work on**
 * Update to OAuth API when Discord make an official API
-* Going to add an edit function to the $emote command
+* Going to add an edit function to the `$emote` command
 
 
 **Requirements**
