@@ -12,5 +12,5 @@ A [Discord](https://discordapp.com/) Bot using [Discord.py](https://github.com/R
 
 **Requirements**
 * *Python 2.7*
-* *json* - comes with Python 2.7
-* *urllib2* - comes with Python 2.7
+* *json* - integrated
+* *urllib2* - integrated
